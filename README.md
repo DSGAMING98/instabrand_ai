@@ -31,4 +31,4 @@ instabrand_ai/
 ├── data/                       # Exported/downloadable data (optional)
 ├── .streamlit/config.toml      # UI theme customization
 ├── requirements.txt            # Dependencies
-└── README.md                   # You're reading it 😎
+└── README.md                   # You're reading it 
